@@ -1,0 +1,10 @@
+car,auto
+house,residence
+run,sprint,dart
+blue,azure,cobalt
+bake
+jump,leap,hop
+swim
+moon
+road
+kind,nice
